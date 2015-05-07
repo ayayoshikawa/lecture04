@@ -1,3 +1,3 @@
-function zero(a){
-  return a = []
+function zero(){
+  return [];
 }
